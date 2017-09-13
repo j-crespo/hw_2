@@ -1,0 +1,12 @@
+down();
+down();
+var theColor = getColor();
+down();
+down();
+down();
+right();
+right();
+setColor(theColor);
+right();
+right();
+up();
