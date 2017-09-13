@@ -1,0 +1,18 @@
+function upDown () {
+  if  (getColor() == "red") {
+  up();
+	} 
+else 
+if (getColor() != "red") {
+	down();
+	}
+  right();
+  right();
+}
+
+right();
+right();
+upDown();
+upDown();
+upDown();
+right();
